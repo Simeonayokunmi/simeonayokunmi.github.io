@@ -18,8 +18,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Simeon Ogunbunmi is a Nigerian researcher and academic specializing in network security and machine learning. He holds a First Class Honours from LAUTECH and is currently pursuing a PhD at SUNY Binghamton in UAV Network systems. Link to the page [myengineers](https://www.myengineers.com.ng/2024/12/04/lautech-graduate-excells-at-suny-university-binghamton-credits-foundation-to-undergraduate-studies/).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Ogunbunmi's research focuses on network security, machine learning, and autonomous systems. He has collaborated with prestigious organizations such as the Department of Defense and the US Air Force Research Laboratory. Currently, he is pursuing a PhD at SUNY, aiming to become a leading researcher in UAV Network systems. Beyond his academic achievements, Ogunbunmi is actively involved in supporting the student community, serving as a Graduate Teaching Assistant and Public Relations Officer for the Graduate African Student Organization at Binghamton University.
