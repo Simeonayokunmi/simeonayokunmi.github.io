@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: People
-description: Group members
+description: Group member
 nav: true
 nav_order: 7
 
@@ -14,17 +14,15 @@ profiles:
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>25 Murray road</p>
-      <p>Vestal Parkway, Binghamton</p>
-      <p>Vestal, New York 13902</p>
-
+      <p>555 your office number</p>
+      <p>123 your address street</p>
+      <p>Your City, State 12345</p>
   - align: left
     image: prof_pic.jpg
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>25 Murray road</p>
-      <p>Vestal Parkway, Binghamton</p>
-      <p>Vestal, New York 13902</p>
-
+      <p>555 your office number</p>
+      <p>123 your address street</p>
+      <p>Your City, State 12345</p>
 ---
