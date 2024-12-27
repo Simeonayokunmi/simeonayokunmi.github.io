@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>State University of New York, Binghamton</a>. 4400 Vestal Pkwy, Binghamton, NY 13902
+subtitle: <a href='https://www.binghamton.edu/'>State University of New York, Binghamton</a>. 4400 Vestal Pkwy, Binghamton, NY 13902
 
 profile:
   align: right
