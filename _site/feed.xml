@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-12-27T21:04:26-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-12-27T21:06:12-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 </subtitle><entry><title type="html">a post with image galleries</title><link href="http://localhost:4000/blog/2024/photo-gallery/" rel="alternate" type="text/html" title="a post with image galleries" /><published>2024-12-03T20:59:00-05:00</published><updated>2024-12-03T20:59:00-05:00</updated><id>http://localhost:4000/blog/2024/photo-gallery</id><content type="html" xml:base="http://localhost:4000/blog/2024/photo-gallery/"><![CDATA[<p>The images in this post are all zoomable, arranged into different mini-galleries using different libraries.</p>
 
 <h2 id="lightbox2"><a href="https://lokeshdhakar.com/projects/lightbox2/">Lightbox2</a></h2>
@@ -91,7 +91,7 @@ Content 2
 
 <p>With this you can generate visualizations like:</p>
 
-<ul id="log" class="tab" data-tab="5fdab470-c40f-47a7-984d-bb0a058d2f28" data-name="log">
+<ul id="log" class="tab" data-tab="e8900e0c-0442-40a8-a46c-30c10d0df16e" data-name="log">
   
       <li class="active" id="log-php">
           <a href="#">php </a>
@@ -106,7 +106,7 @@ Content 2
       </li>
   
 </ul>
-<ul class="tab-content" id="5fdab470-c40f-47a7-984d-bb0a058d2f28" data-name="log">
+<ul class="tab-content" id="e8900e0c-0442-40a8-a46c-30c10d0df16e" data-name="log">
   
       <li class="active">
 <div class="language-php highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">var_dump</span><span class="p">(</span><span class="s1">'hello'</span><span class="p">);</span>
@@ -130,7 +130,7 @@ Content 2
 
 <h2 id="another-example">Another example</h2>
 
-<ul id="data-struct" class="tab" data-tab="a5c43423-00fa-4d52-8b83-509a24fde9fa" data-name="data-struct">
+<ul id="data-struct" class="tab" data-tab="e8354c0a-8c6d-4a44-a2e1-8f594bf06440" data-name="data-struct">
   
       <li class="active" id="data-struct-yaml">
           <a href="#">yaml </a>
@@ -141,7 +141,7 @@ Content 2
       </li>
   
 </ul>
-<ul class="tab-content" id="a5c43423-00fa-4d52-8b83-509a24fde9fa" data-name="data-struct">
+<ul class="tab-content" id="e8354c0a-8c6d-4a44-a2e1-8f594bf06440" data-name="data-struct">
   
       <li class="active">
 <div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">hello</span><span class="pi">:</span>
@@ -163,7 +163,7 @@ Content 2
 
 <h2 id="tabs-for-something-else">Tabs for something else</h2>
 
-<ul id="something-else" class="tab" data-tab="b63089b3-123b-43de-a43e-03baae2c63c8" data-name="something-else">
+<ul id="something-else" class="tab" data-tab="ab3200a2-8bbf-4669-b5f1-0e5c7cb16e8c" data-name="something-else">
   
       <li class="active" id="something-else-text">
           <a href="#">text </a>
@@ -178,7 +178,7 @@ Content 2
       </li>
   
 </ul>
-<ul class="tab-content" id="b63089b3-123b-43de-a43e-03baae2c63c8" data-name="something-else">
+<ul class="tab-content" id="ab3200a2-8bbf-4669-b5f1-0e5c7cb16e8c" data-name="something-else">
   
       <li class="active">
 <p>Regular text</p>
